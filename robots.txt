@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://steerman17.github.io/Profitpilot/sitemap.xml
